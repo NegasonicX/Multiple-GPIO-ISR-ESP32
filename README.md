@@ -1,4 +1,4 @@
-# Multiple-GPIO-ISR_ESP32
+# Multiple GPIO ISR on ESP32
 A simple yet insightful program to set multiple gpio interrupts.
 
 
